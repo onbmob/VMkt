@@ -1,6 +1,7 @@
 package com.stemsc.vmkt
 
 import android.os.Bundle
+//import android.util.Log
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.google.android.material.snackbar.Snackbar
 import androidx.navigation.findNavController
@@ -13,6 +14,11 @@ import com.google.android.material.navigation.NavigationView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
 import android.view.Menu
+//import android.os.StrictMode
+//import androidx.core.app.ComponentActivity.ExtraData
+//import androidx.core.content.ContextCompat.getSystemService
+//import android.icu.lang.UCharacter.GraphemeClusterBreak.T
+
 
 class MainActivity : AppCompatActivity() {
 
